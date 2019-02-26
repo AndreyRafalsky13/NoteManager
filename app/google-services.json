@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "950117920499",
+    "firebase_url": "https://fir-testing-8209b.firebaseio.com",
+    "project_id": "fir-testing-8209b",
+    "storage_bucket": "fir-testing-8209b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950117920499:android:3d7f38cc6f821466",
+        "android_client_info": {
+          "package_name": "com.rafalsky.firebaselesson1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950117920499-ttddarpse8u6i889b2b2d0rs4jfv5ofs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_60uKsXZq88W83FnLHHoPPBn9NCAEwXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
